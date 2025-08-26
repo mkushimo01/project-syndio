@@ -1,4 +1,4 @@
-# GKE Baseline on Google Cloud — Terraform
+# GKE on Google Cloud — Terraform
 
 This repo provisions a **VPC-native GKE cluster** with a custom VPC, regional subnet, secondary IP ranges for Pods/Services, least-privileged node service accounts, and a managed node pool with auto-repair/upgrade. Remote state is stored in a **GCS bucket** for team collaboration.
 
