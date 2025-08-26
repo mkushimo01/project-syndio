@@ -15,6 +15,8 @@ This repo provisions a **VPC-native GKE cluster** with a custom VPC, regional su
 - Attached **least-privileged Service Account**
 - Legacy metadata endpoints disabled
 - Useful **outputs** (cluster name, endpoint, CA, network artifacts)
+---
+<img width="960" height="698" alt="image" src="https://github.com/user-attachments/assets/11ebcc60-5da0-4019-bcf3-28f7f99011db" />
 
 ---
 
